@@ -6,6 +6,15 @@ This project demonstrates how to build and automate an ETL process using Apache 
 
 The project is entirely carried out on AWS EC2 for running Airflow and an S3 bucket for data storage. Key Airflow concepts such as DAGs, Operators, and Sensors are covered.
 
+---
+
+## Architecture
+
+<img width="674" alt="Image" src="https://github.com/user-attachments/assets/2b23cd18-7329-45fd-baf8-e4eba761dfac" />
+
+
+---
+
 ## Resources
  
 - **Weather API**: [OpenWeatherMap API](https://openweathermap.org/api)   
